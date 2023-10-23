@@ -1,2 +1,3 @@
-# desenvolvimento-android
-Códigos desenvolvidos para a disciplina de Programação para Dispositivos, durante meu ensino médio no IFMS.
+# Desenvolvimento Android
+## Códigos desenvolvidos para a disciplina de Programação para Dispositivos Móveis, durante meu ensino médio técnico no IFMS.
+--
